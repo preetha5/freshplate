@@ -2,7 +2,7 @@
 Freshplate is a lightweight customizable front-end framework that gives you the power to build fast and adaptable websites with contemporary styling. 
 
 ### [Official website](http://freshplate.servicefocuseddesign.com/)
-### [Source](https://github.com/preetha5/fewd2_final) 
+### [Source](https://github.com/preetha5/freshplate) 
 
 ## Features
 * Reset library that standardizes HTML tags across browsers
